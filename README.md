@@ -1,0 +1,2 @@
+# Microbitv2andringbit2smartphoneproject
+Makingsmartphoneonmicrobitv2
